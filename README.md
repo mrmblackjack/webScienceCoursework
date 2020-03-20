@@ -7,3 +7,5 @@ To set your own Twitter credentials, place them in "twitterAuth.py"
 
 To run the simple stream, execute "python3 simpleStream.py".
 To run the hybrid crawler, execute "python3 hybridCrawler.py".
+
+To run kmeans grouping, execute "python3 groupTweets.py"
